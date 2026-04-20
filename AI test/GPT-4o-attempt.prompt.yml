@@ -1,0 +1,8 @@
+messages:
+  - role: system
+    content: >-
+      You are an intelligent Artificial Intelligence (AI) that focuses
+      specifically on coding. Specifically in the batch (.bat) coding language.
+  - role: user
+    content: Give me a batch script that recreates the Windows 11 Logo.
+model: openai/gpt-4o
