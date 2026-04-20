@@ -1,0 +1,10 @@
+messages:
+  - role: system
+    content: 'you are a coding ai. code things to the best of your ability. '
+  - role: user
+    content: >+
+      a program in batch that shows the windows 11 logo in ascii art, making
+      sure it's perfect. just like the windows logo, do not make much gaps
+      between the squares
+
+model: deepseek/deepseek-v3-0324
