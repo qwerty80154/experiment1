@@ -1,6 +1,7 @@
-# This is a batch file created by Deepseek (with a basic system and user prompt). Copy all the below contents and save it as .bat
-
-@echo off
+echo @off
+echo This is a batch file created by Deepseek (with a basic system and user prompt).
+echo Continue if you want to see some garbage code.
+pause
 cls
 echo.
 echo  ██████████████████████████████████████████████████████████████████████████████
