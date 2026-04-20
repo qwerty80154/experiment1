@@ -1,4 +1,4 @@
-echo @off
+@echo off
 echo This is a batch file created by Deepseek (with a basic system and user prompt).
 echo Continue if you want to see some garbage code.
 pause
