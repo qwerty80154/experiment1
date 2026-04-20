@@ -4,11 +4,11 @@ pause
 clear
 
 echo  _______ _______
-echo |       |       |
-echo |       |       |
-echo |_______ _______|
-echo |       |       |
-echo |       |       |
-echo |_______ _______|
+echo ^|       ^|       ^|
+echo ^|       ^|       ^|
+echo ^|_______ _______^|
+echo ^|       |       ^|
+echo ^|       |       ^|
+echo ^|_______ _______^|
 
 pause
