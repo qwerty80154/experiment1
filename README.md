@@ -1,3 +1,3 @@
-# experiment1
+# experiments
 
 testing project.
